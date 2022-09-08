@@ -7,7 +7,7 @@ function changeText()
 
     if (showingQueenText = !showingQueenText)
     {
-        el.textContent = "Queen Elizabeth II is dead.";
+        el.textContent = "Rest in peace, Queen Elizabeth II.";
     }
     else
     {
